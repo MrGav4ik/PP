@@ -1,5 +1,12 @@
-# Laboratorium: 01; Zadanie 01; Autor: Kudriavtsev Vitalii nr albumu 262516
+
+# Laboratorium: 01; Zadanie 02; Autor: Kudriavtsev Vitalii nr albumu 262516
 # Oświadczam, że zadanie wykonałem samodzielnie.
 
+print("***********************")
+print("*                     *")
 print("* Vitalii Kudriavtsev *")
-print("* 1EiT2 *")
+print("* Elektronika i       *")
+print("* Telekomunikacja     *")
+print("* 1EiT2               *")
+print("*                     *")
+print("***********************")
